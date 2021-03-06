@@ -1,0 +1,13 @@
+{
+  "db":  {
+    "host": "mongodb+srv://cluster0.6ybp1.mongodb.net/finweb",
+    "port": 47052,
+    "url": "mongodb+srv://jesus:1999currito@cluster0.6ybp1.mongodb.net/finweb",
+    "database": "finweb",
+    "password": "1999currito",
+    "name": "db",
+    "user": "jesus",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
